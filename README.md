@@ -1,3 +1,8 @@
+---
+services: logic-apps, storage
+author: GageAmes
+---
+
 # Subscribing to Tweets using Azure Logic Apps
 A tutorial for using [Azure Logic Apps](https://azure.microsoft.com/services/logic-apps/) to monitor recent tweets on [Twitter](https://twitter.com). The app sends an email notification to subscribers when new tweets are posted matching a search term.
 
