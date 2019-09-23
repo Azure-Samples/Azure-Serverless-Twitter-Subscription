@@ -1,10 +1,10 @@
 ---
 page_type: sample
 languages:
-- 
+- md
 products:
 - azure
-description: "A tutorial for using Azure Logic Apps to monitor recent tweets on Twitter. The app sends an email notification to subscribers when new tweets are posted matching a search term."
+description: "A tutorial for using Azure Logic Apps to monitor recent tweets on Twitter."
 urlFragment: Azure-Serverless-Twitter-Subscription
 ---
 
